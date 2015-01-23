@@ -12,6 +12,16 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Francois One', sans-serif;
+  line-height: 1.5;
+  text-align: center;
+}
+
 ol {
   list-stye-type: none;
   padding: 0;
