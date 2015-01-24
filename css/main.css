@@ -21,6 +21,17 @@ h2 {
   color: #444;
 }
 
+h3 {
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: normal;
+  font-family: 'Francois One', sans-serif;
+  line-height: 1.5;
+  text-align: left;
+  color: #444;
+
+}
+
 ol {
   list-stye-type: none;
   padding: 0;
@@ -38,7 +49,7 @@ a:hover {
   color: white;
 }
 
-dt{
+dt {
   font-weight:bold;
 }
 
@@ -47,6 +58,6 @@ dt{
   padding: 30px;
 }
 
-strong {
+b {
   color: purple;
 }
