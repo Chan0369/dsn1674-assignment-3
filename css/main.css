@@ -32,6 +32,10 @@ h3 {
 
 }
 
+p {
+  font-family: arial, sans-serif;
+}
+
 ol {
   list-stye-type: none;
   padding: 0;
@@ -60,4 +64,9 @@ dt {
 
 b {
   color: purple;
+}
+
+blockquote {
+  font-weight: bold;
+  font-style: italic;
 }
