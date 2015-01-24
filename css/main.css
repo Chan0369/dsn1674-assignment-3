@@ -70,3 +70,7 @@ blockquote {
   font-weight: bold;
   font-style: italic;
 }
+
+figcaption {
+  font-style: italic;
+}
